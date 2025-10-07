@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+11:48:09	69/69	---MCZ	200	added ('OK')	text/plain	etag:%221095-1759382447;gz%22	https://treadstonebrokerage.online/robots.txt		(from )
+11:48:10	261503/261503	---M-Z	200	added ('OK')	text/html	etag:%221096-1759390128;gz%22	https://treadstonebrokerage.online/	C:/My%20Web%20Sites/usadd/treadstonebrokerage.online/index.html	(from )
+11:48:10	42/42	---M-Z	405	error ('Method%20Not%20Allowed')	text/plain	date:Tue,%2007%20Oct%202025%2018:48:15%20GMT	https://treadstonebrokerage.online/xmlrpc.php	C:/My%20Web%20Sites/usadd/treadstonebrokerage.online/xmlrpc.php	(from https://treadstonebrokerage.online/)
